@@ -182,7 +182,7 @@ body {
 }
 
 .landing {
-    background-image: url("../../../resized_image.png");
+    background-image: url("../images/landing.png");
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
@@ -535,5 +535,6 @@ body {
     font-weight: bold;
 
 }
+
 
 
